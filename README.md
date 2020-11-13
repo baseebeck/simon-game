@@ -1,3 +1,3 @@
 # simon-game
 
-This is a project I did for a Web Development class on Udemy focusing on Javascript.
+This is a project I did for a Web Development class on Udemy using JQuery.
